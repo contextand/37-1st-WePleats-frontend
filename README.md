@@ -13,7 +13,7 @@
 
 - Front-End : React.js, sass, JavaScript, html, css
 - Back-End : Node.js, Express, JSON Web TOKEN, Bcrypt, My SQL, Multer
-- Common : AWS(EC2,RDS), RESTful API
+- Common : AWS(EC2,RDS), RESTful API, Git, Github, Trello, Slack
 
 ## 프로젝트 시연 영상
 
