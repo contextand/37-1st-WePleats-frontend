@@ -56,9 +56,9 @@
 - 결제할 제품 목록을 받아와서 제품 목록과 가격 총합을 보여주고, 쿠폰을 사용할 경우 총합 금액에서 빼줍니다.
 - 그 외 입력창 레이아웃은 flex 사용했고, 주소 입력창은 grid를 적용해 구현했습니다. 
 
-## 관련 블로그 포스팅 
+# 관련 블로그 포스팅 
 
-### 프로젝트를 진행하며 배운 내용은 블로그에 포스팅했습니다.
+## 프로젝트를 진행하며 배운 내용은 블로그에 포스팅했습니다.
 
 - [Mock 데이터 array.map() 에러 메시지 대응](https://velog.io/@rayong/Mock-%EB%8D%B0%EC%9D%B4%ED%84%B0-array.map-%EC%97%90%EB%9F%AC-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%8C%80%EC%9D%91)
 - [팀프로젝트 Github 활용 및 컨플릭트 해결](https://velog.io/@rayong/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Github-%ED%99%9C%EC%9A%A9-%EB%B0%8F-%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD)
