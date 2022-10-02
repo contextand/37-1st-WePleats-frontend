@@ -1,20 +1,19 @@
 # WePleats 프로젝트 개요
 
-> - 기본적인 커머스 사이트 flow를 가진 사이트 선정해 클론 코딩을 진행했습니다.
-> - 회원가입 - 로그인 - 메인 - 리스트 - 상세 - 결제 / 장바구니 - 리뷰
-> - 개발자들의 보다 개성있는 데스크를 위해 다채로운 색상의 프로덕트 판매하는 사이트를 기획했습니다.
+- 기본적인 커머스 사이트 flow를 가진 사이트 선정해 클론 코딩을 진행했습니다.
+- 회원가입 - 로그인 - 메인 - 리스트 - 상세 - 결제 / 장바구니 - 리뷰
+- 개발자들의 보다 개성있는 데스크를 위해 다채로운 색상의 프로덕트 판매하는 사이트를 기획했습니다.
 
 ## 개발 인원 및 기간
 
-> - 개발기간 : 2022/9/19 ~ 2022/9/29
-> - 개발 인원 : 프론트엔드 3명, 백엔드 2명
+- 개발기간 : 2022/9/19 ~ 2022/9/29
+- 개발 인원 : 프론트엔드 3명, 백엔드 2명
 
 ## 적용 기술
 
-> - Front-End : React.js, sass, JavaScript, html, css
-> - Back-End : Node.js, Express, JSON Web TOKEN, Bcrypt, My SQL, Multer
-> - Common : AWS(EC2,RDS), RESTful API
-> - 
+- Front-End : React.js, sass, JavaScript, html, css
+- Back-End : Node.js, Express, JSON Web TOKEN, Bcrypt, My SQL, Multer
+- Common : AWS(EC2,RDS), RESTful API
 
 ## 프로젝트 시연 영상
 
